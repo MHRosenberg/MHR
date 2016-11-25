@@ -43,4 +43,10 @@ b'Hello, TensorFlow!'
 
 trying to make zoom work:
 sudo apt-get install compizconfig-settings-manager
+didn't work }{ will advised against it }{ caused my shit to crash / be slow
+sudo apt-get remove compizconfig-settings-manager
+
+this then opening and modifying in dash worked
+http://askubuntu.com/questions/82398/how-to-zoom-inzoom-out
+sudo apt-get install unity-tweak-tool
 
